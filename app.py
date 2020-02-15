@@ -7,6 +7,7 @@ app.config['SECRET_KEY'] = 'hardToGuessString'
 
 bootstrap = Bootstrap(app)
 
+#SECOND COMMIT 
 #import views
 from views import *
 
